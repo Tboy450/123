@@ -1,0 +1,22 @@
+{
+  "github": {
+    "repo": "Tboy450/123",
+    "branch": "main",
+    "token": ""
+  },
+  "sync": {
+    "enabled": true,
+    "autoSync": false,
+    "interval": 300,
+    "foldersToSync": [
+      "src/server",
+      "src/client",
+      "src/shared"
+    ]
+  },
+  "notifications": {
+    "enabled": true,
+    "showStatus": true,
+    "logToConsole": true
+  }
+}

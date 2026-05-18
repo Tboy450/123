@@ -1,0 +1,8 @@
+{
+  "Name": "GitHub Sync",
+  "Description": "Automatically sync scripts from GitHub to Roblox Studio",
+  "Authors": ["Tboy450"],
+  "Version": "1.0.0",
+  "Tags": ["github", "sync", "automation"],
+  "Permissions": ["RunScripts", "FetchUrl"]
+}
